@@ -11,7 +11,7 @@ and high score list.
 
 ## The Start Screen ##
 <ul>
-<li>Background music is playing throughout</li><br />
+<li>Background music is playing throughout</li>
 </ul>
 ![Start Screen](http://i.imgur.com/ChJ3c5a.png)
 <br /><br />
@@ -34,7 +34,7 @@ then a "squish" sound is played, and the user loses points and a life.</li><br /
 
 ## Mid-Game ##
 <ul>
-<li>Picture portrays user after they have reached two lily pads<li><br />
+<li>Picture portrays user after they have reached two lily pads</li><br />
 <li>After every lily pad reached, it disappears</li><br />
 </ul>
 ![Mid](http://i.imgur.com/cCBurpMh.png)
