@@ -15,14 +15,14 @@ Background music is playing throughout<br />
 <br /><br />
 
 
-## Intructions ##
+## Instructions ##
 ![Instructions](http://i.imgur.com/OoKosMr.png)
 <br /><br />
 
 ## Beginning of the Game ##
 The user begins as the dark green square located at the bottom center of the screen.<br />
 The longer multi-colored rectangles are the vehicles which the user has to avoid, if they get hit by one, 
-hen a "squish" sound is played, and the user loses points and a life.<br />
+then a "squish" sound is played, and the user loses points and a life.<br />
 Every vehicle is going in random directions (either left or right)<br />
 The user's objective is to reach all 5 lily pads before losing all lives<br />
 Vehicle speed increases greatly after every lily pad reached<br />
